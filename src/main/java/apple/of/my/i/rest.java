@@ -10,6 +10,6 @@ public class rest {
 	@RequestMapping("/getName")
 	public String getName()
 	{
-		return "Hello";
+		return "Hello"+System.currentTimeMillis();
 	}
 }
