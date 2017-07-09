@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<artifactId>spring-boot-demo-jsp</artifactId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>Spring Boot Demo JSP Example</name>
 	<description>Spring Boot Web JSP Example</description>
 	<version>1.0</version>
