@@ -21,13 +21,13 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 		
-		<!-- Web with Tomcat + Embed 
+		<!-- Web with Tomcat + Embed -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
 			<scope>provided</scope>
 		</dependency>
-		-->
+		
 		<!-- JSTL 
 		<dependency>
 			<groupId>javax.servlet</groupId>
@@ -49,13 +49,13 @@
 			<scope>provided</scope>
 		</dependency>
 		-->
-		<!-- Optional, for bootstrap 
+		<!-- Optional, for bootstrap--> 
 		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>bootstrap</artifactId>
 			<version>3.3.7</version>
 		</dependency>
-		-->
+		
 	</dependencies>
 	<build>
 		<plugins>
