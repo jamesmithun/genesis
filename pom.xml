@@ -1,24 +1,9 @@
-<<<<<<< HEAD
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>apple.of.my.i</groupId>
   <artifactId>genesis</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 <parent>
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-	<modelVersion>4.0.0</modelVersion>
-
-	<artifactId>spring-boot-demo-jsp</artifactId>
-	<packaging>jar</packaging>
-	<name>Spring Boot Demo JSP Example</name>
-	<description>Spring Boot Web JSP Example</description>
-	<version>1.0</version>
-
-	<parent>
->>>>>>> e72bfddb6a3d363c69665bbb5f69918a1c5e9e2a
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.4.2.RELEASE</version>
