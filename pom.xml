@@ -58,7 +58,7 @@
 		
 	</dependencies-->
 	<build>
-		<finalname>genesis</finalname>
+		<finalName>genesis</finalName>
 		<plugins>
 			<!-- Package as an executable jar/war -->
 			<plugin>
