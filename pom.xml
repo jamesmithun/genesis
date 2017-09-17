@@ -13,6 +13,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<spring.boot.mainclass>apple.of.my.i.main</spring.boot.mainclass>
+		<start-class>apple.of.my.i.main</start-class>
 
 	</properties>
 
