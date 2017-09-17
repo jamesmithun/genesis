@@ -49,7 +49,7 @@
 			<scope>provided</scope>
 		</dependency>
 		
-		<!-- Optional, for bootstrap--> 
+		
 		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>bootstrap</artifactId>
