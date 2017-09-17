@@ -21,17 +21,8 @@ public class rest {
 	{
 		String out="";
 		try {
-			HttpURLConnection uc = (HttpURLConnection) new URL("www.google.com").openConnection();
-			InputStream ou =uc.getInputStream();
 			
-			byte[] b = new byte[1024];
-			int read;
-			while ((read = ou.read(b)) !=-1)
-			{
-				out=out.concat(new String(b,0,read));
-			}
-			
-			ou.close();
+			out=System.currentTimeMillis()+"Hello";
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			out=e.getMessage();
